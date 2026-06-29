@@ -1,4 +1,8 @@
 # NepaliSathi — Gamified Tourism Discovery for Nepal
+  ```
+THIS WAS THE PROJECT WE DID IN BAGAMATI TOURISM HACKHATHON 2083 WHICH WAS HELD IN NEPAL ENGINEERING COLLEGE, CHANGUNARAYAN,BHAKTAPUR.
+TEAM NEAME- TEAM VECTORS
+```
 
 Web app that turns exploring Nepal's heritage sites into an interactive quest with stamps, XP, leaderboards, and AI-powered storytelling and help tourist to explore Nepal as a local.
 
